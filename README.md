@@ -1,4 +1,4 @@
-# SETUP COMMANDS — QR Attendance App
+s# SETUP COMMANDS — QR Attendance App
 
 > **Target:** First-year students | **Expo SDK:** 54 | **Expo Go:** 54.0.8
 
